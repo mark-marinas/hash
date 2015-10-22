@@ -1,0 +1,2 @@
+Description:
+	Hash table where every element is a linklist; collision is handled by chaining.
